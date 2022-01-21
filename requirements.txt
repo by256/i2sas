@@ -1,5 +1,5 @@
 numpy
 scipy
 matplotlib
-rdfpy=1.0.0=pypi_0
+rdfpy
 imagedataextractor
