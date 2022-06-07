@@ -39,6 +39,20 @@ Then simply open `i2sas.ipynb` with Jupyter Notebook and run all the cells. This
 
 If you use the methods outlined in this repository, please cite the following work:
 
+```
+@article{i2sas,
+    author = "Yildirim, Batuhan and Washington, Adam and Doutch, James and Cole, Jacqueline M.",
+    title = "Calculating Small-Angle Scattering Intensity Functions from Electron-Microscopy images",
+    journal = "RSC Adv.",
+    year = "2022",
+    volume = "12",
+    issue = "26",
+    pages = "16656-16662",
+    publisher = "The Royal Society of Chemistry",
+    doi = "10.1039/D2RA00685E",
+    url = "http://dx.doi.org/10.1039/D2RA00685E",
+}
+```
 
 ## Funding
 
